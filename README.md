@@ -2,8 +2,9 @@
 
 This project was built using vanilla Javascript.
 
-To run this project locally, run this code on your terminal:
-node server.js
+To run the project using development mode.
+Run node server.js on your terminal.
 
-and then open localhost:8080 to view.
+Open localhost:8080 to view in the browser.
+
 https://eunice-bandlab-test.glitch.me

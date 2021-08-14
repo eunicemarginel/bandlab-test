@@ -1,4 +1,4 @@
-# BandLab Javascript test
+# BandLab Javascript Test
 
 This project was built using vanilla Javascript.
 
